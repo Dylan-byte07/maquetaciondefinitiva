@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: #888888;
+    height: 150px;
+}
+
+.logo {
+    background-color: orange;
+    height: 80px;
+    width: 280px;
+    margin: 30px;
+}
+
+.botonGris {
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    height: 50px;
+    width: 280px;
+    margin: 30px;
+}
+
+.imagenes {
+    background-color: orange;
+    height: 350px;
+    width: 650px;
+    margin: 50px;
+}
+
+.botonNaranja {
+    background: #ffa500;
+    text-align: center;
+    height: 50px;
+    width: 280px;
+    margin: 30px;
+}
+
+.contenido {
+    margin-top: 15px;
+}
+
+.contenido-principal {
+    background: #2b2b2b;
+    padding: 15px;
+}
+
+.sidebar {
+    background: #3a3a3a;
+    padding: 15px;
+}
+
+.bloque {
+    margin-bottom: 15px;
+}
+
+.naranja-grande {
+    background: #ff7a18;
+    height: 140px;
+}
+
+.imagenes2 {
+    background: #ffc107;
+    height: 350px;
+    width: 400px;
+    margin: 50px;
+}
+
+.texto1 {
+    background: #9c9c9c;
+    height: 150px;
+    margin: 50px;
+
+}
+
+.texto2 {
+    background: #9c9c9c;
+    height: 150px;
+    margin: 25px;
+
+}
+
+.titulotexto {
+    background: #d1d1d1;
+    height: 50px;
+    margin: 50px;
+}
+
+.titulotexto2 {
+    background: #d1d1d1;
+    height: 50px;
+    margin: 25px;
+}
+
+.cuadro-rojo {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+
+}
